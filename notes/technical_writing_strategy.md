@@ -68,11 +68,11 @@ But, NOT in:
 ---
 
 ## The 5 C's of Technical Writing
-1. **Correctness** – Grammar, technical accuracy, peer-reviewed
-2. **Clarity** – Single interpretation per sentence
-3. **Completeness** – All important info included
-4. **Consistency** – Internally and externally aligned
-5. **Changeability** – Easy to update (modular format)
+1. **Correctness**: Grammar, technical accuracy, peer-reviewed
+2. **Clarity**: Single interpretation per sentence
+3. **Completeness**: All important info included
+4. **Consistency**: Internally and externally aligned
+5. **Changeability**: Easy to update (modular format)
 
 ---
 
@@ -83,8 +83,8 @@ But, NOT in:
 ---
 
 ## Writing for E-Media
-**Pros**: Cost-effective, eco-friendly, easy to correct
-**Cons**: Security issues, permanent record of errors
+- **Pros**: Cost-effective, eco-friendly, easy to correct
+- **Cons**: Security issues, permanent record of errors
 
 ### Blogging
 - Tone: Informal, timely, conversational
