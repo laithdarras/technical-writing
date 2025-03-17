@@ -6,19 +6,6 @@ meeting minutes, presentations, and more.
 
 ---
 
-## Overview
-Common business writing formats include:
-- Memos
-- Nontechnical reports
-- Agendas and minutes
-- Resumes and cover letters
-- Business plans and proposals
-- Press releases
-- Customer communication
-- Thank-you notes
-
----
-
 ## Resumes
 A resume is one of the most personal forms of business communication.
 
