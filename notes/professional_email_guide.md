@@ -93,11 +93,3 @@ Include:
 ### Emailing Managers
 - Address specific recommendations or feedback clearly
 - Demonstrate professionalism and initiative in your language
-
----
-
-This document is a live guide and will continue to grow as I encounter more examples and best practices in my academic and professional journey.
-
----
-
-_Last updated: March 2025_
