@@ -16,11 +16,7 @@ A resume is one of the most personal forms of business communication.
 - Education
 - Certifications
 - Technical Skills
-- Languages
 - Awards and Publications
-- Affiliations
-- Interests (optional)
-
 > Tip: Keep it to one page. Highlight the most relevant and impressive details.
 
 ---
