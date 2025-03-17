@@ -68,8 +68,8 @@ Communication of scientific research.
 - Newsletters (informal updates within a field)
 - Websites/Blogs (timely but not peer-reviewed)
 
-> ⚠️ **Note on Publication Timelines:**
+> **Note on Publication Timelines:**
 > - **Journals**: High-quality, slow turnaround (1–2+ years)
-> - **Magazines**: Fast, casual, good for trending topics
-> - **Conferences**: Presentations + peer-reviewed papers (proceedings)
+> - **Magazines**: Fast and casual, good for trending topics
+> - **Conferences**: Presentations + peer-reviewed papers
 > - **Newsletters/Blogs**: Quickest, but lowest prestige and credibility
