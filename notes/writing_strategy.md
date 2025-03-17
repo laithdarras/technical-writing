@@ -1,4 +1,4 @@
-# Technical Writing Strategy & Process
+# Writing Strategy & Process
 
 This document dives into the strategy and process behind strong technical writing. From planning to polishing, 
 this guide explores how to write clearly, accurately, and efficiently - with the audience in mind.
