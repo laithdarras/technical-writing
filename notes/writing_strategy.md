@@ -18,16 +18,6 @@ Also consider:
 
 ---
 
-## Structuring Your Writing
-- **Use Hierarchical Sections**:
-  - Example: 1 -> 1.1 -> 1.1.1 -> 1.1.1.1
-  - Or Roman/numeric/alphabetical order: I -> A -> 1 -> a
-- **External Balance**: Uniform section numbering
-- **Internal Balance**: Even section lengths
-- Prioritize **logic and clarity** over strict formatting
-
----
-
 ## Positioning Your Writing
 - Know your audience early to avoid rewrites
 - Tailor your tone and detail level accordingly
