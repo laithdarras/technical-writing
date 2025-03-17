@@ -20,8 +20,8 @@ Also consider:
 
 ## Structuring Your Writing
 - **Use Hierarchical Sections**:
-  - Example: 1 → 1.1 → 1.1.1 → 1.1.1.1
-  - Or Roman/numeric/alphabetical order: I → A → 1 → a
+  - Example: 1 -> 1.1 -> 1.1.1 -> 1.1.1.1
+  - Or Roman/numeric/alphabetical order: I -> A -> 1 -> a
 - **External Balance**: Uniform section numbering
 - **Internal Balance**: Even section lengths
 - Prioritize **logic and clarity** over strict formatting
@@ -43,7 +43,7 @@ Also consider:
 
 **To be precise:**
 - Use measurable quantities
-- Avoid vague modifiers ("some," "huge," "countless")
+- Avoid vague modifiers (e.g., "some," "huge," "countless")
 - Use positive declarations (e.g., “exclude” vs. “do not include”)
 
 ---
