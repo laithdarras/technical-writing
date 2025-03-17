@@ -38,7 +38,7 @@ A professional email should include:
 ## Professional Email Structure
 ### 1. **Subject Line**
 - **Purpose:** Clearly state the topic
-- **Tip:** Keep it concise (5–7 words)
+- **Tip:** Keep it concise (5-7 words)
 - _Example:_ "Meeting Request: Green AI Proposal Discussion"
 
 ### 2. **Salutation**
