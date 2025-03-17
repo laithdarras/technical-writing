@@ -5,6 +5,16 @@ This guide covers best practices for structuring your writing, revising content,
 
 ---
 
+## Structuring Your Writing
+- **Use Hierarchical Sections**:
+  - Example: 1 -> 1.1 -> 1.1.1 -> 1.1.1.1
+  - Or Roman/numeric/alphabetical order: I -> A -> 1 -> a
+- **External Balance**: Uniform section numbering
+- **Internal Balance**: Even section lengths
+- Prioritize **logic and clarity** over strict formatting
+
+---
+
 ## Organization is Key
 - Plan ahead: **Create an outline or strategy before writing**
 - Use standard formats with clear headings and subheadings
