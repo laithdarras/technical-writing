@@ -31,12 +31,12 @@ Instead of writing:
 
 ...just use a **flowchart**.
 
-![Flowchart: Troubleshooting a Broken Lamp]([../assets/graphics/LampFlowchart.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlowchart&psig=AOvVaw1zAxlOY_hMbpkQAIVXuF4s&ust=1743547373159000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODN96CytYwDFQAAAAAdAAAAABAE))  
+![Flowchart: Troubleshooting a Broken Lamp](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/LampFlowchart.svg/330px-LampFlowchart.svg.png)
 *Figure 1: A visual model showing the decision flow for troubleshooting a broken lamp.*
 
 ---
 
-## 📅 Example Gantt Chart (Markdown)
+## Example Gantt Chart (Markdown)
 
 Here is a **text-based Gantt chart** using markdown syntax. You can convert this to a proper visual version with tools like [Mermaid](https://mermaid.js.org/) or GanttProject.
 
