@@ -186,7 +186,7 @@ Repeat for each aim.
 
 ---
 
-## ✏Writing Style Considerations
+## Writing Style Considerations
 - Minimize jargon and abbreviations
 - Avoid trendy terms or fluff
 - Be consistent with headings and subheadings
