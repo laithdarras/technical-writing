@@ -36,15 +36,49 @@ Instead of writing:
 
 ---
 
-## Example Gantt Chart (Markdown)
+## Dealing with Figures
+- Always include a **caption** describing the figure and assign it a unique number (just like above).
+- Refer to the figure in the text **after it appears.**
+- If you created the figure, you own the rights.
+- If using someone else's figure:
+    - You must **cite the source**.
+    - You must **obtain the permission** unless you redraw the figure and make it your own (still cite the source though).
 
-Here is a **text-based Gantt chart** using markdown syntax. You can convert this to a proper visual version with tools like [Mermaid](https://mermaid.js.org/) or GanttProject.
+---
 
-```markdown
-| Task                     | Start Date | Duration | Dependencies |
-|--------------------------|------------|----------|---------------|
-| Proposal Drafting        | Mar 25     | 5 days   | -             |
-| Peer Review              | Mar 30     | 2 days   | Proposal      |
-| Revisions & Edits        | Apr 1      | 3 days   | Peer Review   |
-| Final Formatting         | Apr 4      | 1 day    | Revisions     |
-| Submission               | Apr 5      | -        | Formatting    |
+## Dealing with Tables
+- Use tables to present structured data or comparisons
+- Place the title above the table
+- Use simple formatting to avoid confusion
+- Always number and reference your tables in the text
+
+### Simple Example: Truth Table
+Here's a basic example of a truth table for the logical AND operator:
+### Example: Truth Table for AND (A ∧ B)
+
+| A | B | A ∧ B |
+|---|---|--------|
+| 0 | 0 |   0    |
+| 0 | 1 |   0    |
+| 1 | 0 |   0    |
+| 1 | 1 |   1    |
+
+- This shows that the result of A AND B is only true (1) when both A and B are true (1).
+- You can do this to other logical operations like OR, XOR, NOT, etc., and even combine them as needed for more advanced documentation.
+
+> Truth tables are actually very useful when communicating the logic of Boolean expressions in Software documentation!
+
+---
+
+## Dealing with Equations
+- Equations are technical models - treat them like graphics
+- Example ```E=mc^2``` represents the relationship between energy and mass
+- Use equation editors (MS Word, Google Docs) or LaTeX for clean formatting
+- You don't need to cite well-known equations, but do cite any proprietary formulas
+
+---
+
+## Summary Tips
+- Use graphics purposefully, not decoratively
+- Use text and graphics to complement one another
+- Always label and cite graphics
