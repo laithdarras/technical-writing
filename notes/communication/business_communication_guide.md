@@ -90,3 +90,7 @@ Technical presentations are a form of visual and oral technical writing.
 - Emphasize charts and diagrams
 - Slides should support what you're saying - not repeat it
 - Bullet points can provide structure
+
+---
+
+## Business Plan
