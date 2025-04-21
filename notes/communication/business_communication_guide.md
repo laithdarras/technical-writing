@@ -94,3 +94,5 @@ Technical presentations are a form of visual and oral technical writing.
 ---
 
 ## Business Plan
+- Plan that focuses on the first few years of the business to grow to its potential
+- Sub-plans are important such as: operations, marketing, financials, etc.
