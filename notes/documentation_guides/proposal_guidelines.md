@@ -194,6 +194,29 @@ Repeat for each aim.
 
 ---
 
+## Common Criticisms of proposals
+- Try to keep in mind that someone will be reviewing your proposal and you need to form a strong impression in the mind of the reviewer.
+- Avoid giving this person the opportunity to say things like:
+   - Not an original idea
+   - Rationale is week
+   - Writing is vague
+   - Uncertain outcomes
+   - Irrelevant experience (not the right fit for the project)
+   - Problem is not important
+   - Proposal is unfocused
+   - Project is too large (usually there is a budget or timeline)
+   - Expenses are too high
+
+  > One strategy is to go as minimal cost as you can so that the project can get approved. You're gonna have to sacrifice some things but it is a strategy for project approval.
+
+---
+
+## Scientific Method or Engineering Design
+- When to provide the hypothesis or design statement?
+   - At the end of the introduction, and before listing aims/goals
+
+---
+
 ## Summary Table: 8-Page Proposal Structure
 
 | Proposal Sections | Pages | Page # |
